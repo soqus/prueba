@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="estilos/style.css" rel="stylesheet" type="text/css">
+    <title>RegisterApp</title>
+</head>
+    <main>
+        <header>
+            <h1>Register app</h1>
+            <p>La solucion a tu asistencia</p>
+        </header>
+        <nav>
+        </nav>
+        <section>
+            <h2>¿Que es Register App?</h2>
+            <h4>Register App es una aplicacion para moviles enfocada en la optimizacion de la toma de asistencia. Mediante el simple escaneo de un codigo QR, podras quedar presente, logrando asi una eficacia mayor a la hora de</h4>
+                
+            <h1>Funciones: </h1>
+            <div class='funciones'>
+                <p>En register App contamos con funciones variadas tales como: </p>
+                <p>1. Abrir la camara para poder escanear el QR y quedar ¡¡PRESENTE!!</p>
+                
+                <p>2. Ver el listado de todos tus compañeros y sus correos para  poder contactarte con ellos en caso de que necesitesalgunos apuntos</p>
+                <p>3. Realizar solicitudes por carreras para posteriormente ser revisadas por un docente</p>
+            </div>
+            
+            <div>
+                <h3>Descargala y optimiza tu tiempo dentro del aula teniendo asi más tiempo para poder tomar atención.</h3>
+            </div>
+        </section>
+        
+        <aside>Aside</aside>
+        <footer>
+            <p>Contacto Daniel Caro: danie.caroc@duocuc.clases</p>
+            <p>Contacto Felipe Cofre: f.cofree@duocuc.clases</p>
 
-You can use the [editor on GitHub](https://github.com/soqus/prueba/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soqus/prueba/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        </footer>
+        <body>
+            
+            
+            
+        </body>
+    </main>
+</html>
